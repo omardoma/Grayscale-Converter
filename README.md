@@ -1,8 +1,8 @@
 # Grayscale-Converter
 
-Eclipse Java Project
+An image to Grayscale converter with multiple other features in Java & Swing.
 
-How to run? 
+## How to run? 
 
 Import Project in eclipse
 
